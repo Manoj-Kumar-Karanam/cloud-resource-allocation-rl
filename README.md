@@ -43,7 +43,7 @@ Before you begin, ensure you have the following installed:
     ```
 
 
-3.  **Install the required packages manually if `requirements.txt` does not exist:**
+3.  **Install the required packages manually**
     ```bash
     pip install gymnasium numpy stable-baselines3 matplotlib tensorboard
     ```
