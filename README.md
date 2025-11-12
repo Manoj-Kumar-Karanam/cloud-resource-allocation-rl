@@ -42,13 +42,8 @@ Before you begin, ensure you have the following installed:
     # venv\Scripts\activate  # On Windows
     ```
 
-3.  **Install the required packages:**
 
-    ```bash
-    pip install -r requirements.txt # (Create a requirements.txt based on the packages needed by the project files)
-    ```
-
-4.  **Install the required packages manually if `requirements.txt` does not exist:**
+3.  **Install the required packages manually if `requirements.txt` does not exist:**
     ```bash
     pip install gymnasium numpy stable-baselines3 matplotlib tensorboard
     ```
